@@ -4,6 +4,7 @@ body{
   background: radial-gradient(circle, #fff 10%, #aaa);
   margin: 0px;
   font-family: Helvetica, Arial, sans-serif;
+  display: none;
 }
 
 h1{
