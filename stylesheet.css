@@ -4,7 +4,6 @@ body{
   background: radial-gradient(circle, #fff 10%, #aaa);
   margin: 0px;
   font-family: Helvetica, Arial, sans-serif;
-  display: none;
 }
 
 h1{
@@ -31,6 +30,13 @@ ul{
   list-style-type:circle;
 }
 
+#show{
+  display: block;
+  margin: 10px auto 10px auto;
+  width: 200px;
+  height: 100px;
+}
+
 .section-header{
   padding-left: 5%;
   padding-right: 5%;
@@ -44,6 +50,10 @@ ul{
   box-shadow: 1px 1px 7px #111111;
   margin-left:10px;
   margin-bottom: 15px;
+}
+
+.invisible{
+  display: none;
 }
 
 #name h1{
