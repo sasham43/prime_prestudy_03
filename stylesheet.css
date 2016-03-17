@@ -40,7 +40,7 @@ ul{
 .section-header{
   padding-left: 5%;
   padding-right: 5%;
-  text-align:right;
+  text-align:center;
   box-shadow: 5px 5px 10px 1px #222222;
 }
 
@@ -49,7 +49,8 @@ ul{
   padding: 15px;
   background: #fff;
   box-shadow: 1px 1px 7px #111111;
-  margin: 0 auto 15px auto;
+  /*margin: 0 auto 15px auto;*/
+  margin: 0 10px 15px 10px;
   /*margin-left:10px;
   margin-bottom: 15px;*/
 }
